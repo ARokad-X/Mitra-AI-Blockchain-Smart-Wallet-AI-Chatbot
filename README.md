@@ -27,7 +27,7 @@ DebugDuck
 - Raghu Balar (LinkdeIn : https://www.linkedin.com/in/raghu-balar-070a12342/)  
 ---
 
-### Your Approach:  
+### Our Approach:  
 - Built a modern Next.js application with TypeScript for strong typing and scalability.
 - Integrated chatbot interface that communicates with the backend to interact with wallet data.
 - Utilized modular code structure with reusable components and environment-based configuration.
